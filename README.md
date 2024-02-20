@@ -16,5 +16,9 @@
 </p>
 
 <p align="left">
-  💌 Aberto a contribuir em qualquer código, contato direto no e-mail.
+  💌 E-mail no perfil!
+</p>
+
+<p align="left"> 
+  Minha vontade é continuar explorando novos desafios e oportunidades em meu campo. Sinta-se à vontade para entrar em contato para colaborações ou discussões sobre engenharia, desenvolvimento de software, marketing, consultoria e gestão!
 </p>
