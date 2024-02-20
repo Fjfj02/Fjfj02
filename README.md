@@ -16,12 +16,5 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:faustojosefranciscojunior.fj@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fausto-jf-junior/" alt="LinkedIn"/></a>
+  💌 Aberto a contribuir em qualquer código, contato direto no e-mail.
 </p>
