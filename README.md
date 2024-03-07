@@ -4,15 +4,15 @@
   Olá, meu nome é Fausto Junior.
 </p>
 <p align="left"> 
-  Sou estudante de Engenharia de Produção na Universidade Federal de São Carlos (8º período).
+  Sou estudante de Engenharia de Produção na Universidade Federal de São Carlos (9º período).
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, SQL**
+  🦄 Linguagens: Python, SQL, HTML, CSS
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCode, QT Designer, Office**
+  💼 Ferramentas: VSCode, QT Designer, Office
 </p>
 
 <p align="left">
